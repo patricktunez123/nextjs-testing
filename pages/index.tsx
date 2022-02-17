@@ -19,6 +19,11 @@ const Home: NextPage = () => {
 
         <p className={styles.description}>
           Get started by editing{' '}
+
+
+
+
+
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
@@ -29,6 +34,10 @@ const Home: NextPage = () => {
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
+
+
+
+
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
